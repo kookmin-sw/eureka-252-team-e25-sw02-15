@@ -63,7 +63,7 @@ OCP (open_closed principle)
 <details>
   <summary>2. 상상의 현실화 [팀미션]</summary>
 
-# Team Mission 1
+# Team Mission
 
 ### MIT Sixth Sense 팀이 만들려고 했던 것
   why? 사용자는 직관적으로 제스처만으로 기기를 조작 가능 하도록 하기 위해
