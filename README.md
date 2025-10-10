@@ -82,6 +82,33 @@ OCP (open_closed principle)
   메타 글래스(Meta Glass, 현재 Meta Quest 등으로 발전)
     내부 카메라/센서를 통해 공간과 손동작을 인식하고, 가상 객체를 실제 공간 위에 배치.
 </details>
+
+<details>
+  <summary>3. 2040/2050 미래 그림 그리기 [팀미션]</summary>
+<img src="https://github.com/kookmin-sw/eureka-252-team-e25-sw02-15/blob/main/files/subject_1.png?raw=true" width="480" alt="subject1">  
+  
+### 1. 그림 내용
+**- 하늘을 나는 자동차 (Flying Car)**  
+기존의 도로 위 주행에서 벗어나, 수직이착륙(VTOL) 기술을 활용해 공중으로 이동할 수 있는 자동차이다. 2020년대 중반 이후 세계 여러 기업들이 시제품을 공개했고, 도심 내 단거리 이동을 위한 “에어택시” 형태로 상용화를 준비 중이다. 교통 혼잡을 줄이고 이동 시간을 단축할 수 있다.  
+  
+**- 환경미화 로봇 (Clearing Robot)**  
+인공지능과 자율주행 기술이 결합된 로봇으로, 센서로 주변을 인식해 스스로 경로를 계획하고 청소를 수행한다. 쓰레기 분류 및 수거 기능도 수행한다.  
+  
+**- 탄소 에너지 변환 주택 (Carbon Recycling Smart Home)**  
+집 자체가 이산화탄소를 포집하여 이를 전기 에너지나 열 에너지로 변환하는 시스템을 갖춘 친환경 주택이다. 건물 외벽이나 지붕에 설치된 탄소 포집 장치와 태양광 패널이 결합되어, 가정 단위에서 탄소 중립을 실현할 수 있다.
+  
+**- 가상 후각 장치 (Digital Scent Pad)**   
+원거리에서도 사물이나 음식의 냄새를 전송·감지할 수 있는 기술로, 미세 입자 화학 신호를 전기적 신호로 변환해 전달한다. 온라인 쇼핑, 원격 요리 수업, 게임·VR 환경 등 다양한 분야에 적용되며, 후각 데이터의 디지털화가 핵심 기술로 꼽힌다.  
+  
+### 2. 참고 문헌
+환경미화 : https://www.youtube.com/shorts/ALrdAlL4ItY  
+하늘 나는 자동차 : https://www.youtube.com/watch?v=7gFv1BlBETQ  
+휴머노이드 : https://www.youtube.com/watch?v=mlZoObHe68M  
+신경센서 : https://www.gamemeca.com/view.php?gid=1414435  
+탄소포집 : https://www.yna.co.kr/view/AKR20250622045800017  
+
+
+</details>
 ***
 
 - 기관/부서 인터뷰 ✔️  
