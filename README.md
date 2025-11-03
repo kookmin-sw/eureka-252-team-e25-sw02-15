@@ -86,6 +86,7 @@ OCP (open_closed principle)
 <details>
   <summary>3. 2040/2050 미래 그림 그리기 [팀미션]</summary>
 <img src="https://github.com/kookmin-sw/eureka-252-team-e25-sw02-15/blob/main/files/subject_1.png?raw=true" width="480" alt="subject1">  
+<img src="https://github.com/kookmin-sw/eureka-252-team-e25-sw02-15/blob/main/files/%EC%9C%A0%EB%A0%88%EC%B9%B4%ED%8F%AC%EC%8A%A4%ED%84%B0.png" alt="유레카포스터" width="480px" height="auto">
   
 ### 1. 그림 내용
 **- 하늘을 나는 자동차 (Flying Car)**  
