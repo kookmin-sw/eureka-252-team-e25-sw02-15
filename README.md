@@ -113,7 +113,7 @@ OCP (open_closed principle)
 
 <details>
   <summary>4. 대학원 선배 만나기</summary>
- https://github.com/user-attachments/assets/f8e8630e-7457-493d-a761-22f6c06990ea
+  <img src="https://github.com/user-attachments/assets/f8e8630e-7457-493d-a761-22f6c06990ea" width="480" alt="subject1">
 
 2025년 11월 11일 화요일 오후 3시부터 4시까지 정보보호연구실에서 엄석현 대학원생과의 미팅을 진행하였습니다. 이번 만남은 보안 분야 대학원 진학에 관심이 있는 팀원들이 실제 연구실 선배로부터 구체적인 정보를 얻고 진로 방향을 모색하기 위해 마련되었습니다.
 
